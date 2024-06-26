@@ -1,5 +1,1 @@
-# Ignorar archivos de credenciales
 *.json
-
-# Ignorar el entorno virtual
-venv/
